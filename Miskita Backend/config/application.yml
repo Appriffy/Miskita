@@ -1,0 +1,19 @@
+api_key: '400a8a05f98af817d68851af4dd74e99-060550c6-d510fc5d'
+domain: 'sandbox12dbfe4b2be040279eccce64abf6985a.mailgun.org'
+username: 'postmaster@sandbox12dbfe4b2be040279eccce64abf6985a.mailgun.org'
+password: '528f7f9a20bc2ca33bf10dbf6d0e7b97-060550c6-302dbd49'
+gmail_username: 'abhilku@gmail.com'
+gmail_password: 'abhi2013'
+
+HOSTNAME: "https://fitfight-prod.herokuapp.com"
+
+MAILGUN_API_KEY: "key-1d31d82261dcdd7a9c923ce05913d526"
+MAILGUN_DOMAIN: "mail.fitfightme.com"
+MAILGUN_USERNAME: "postmaster@mail.fitfightme.com"
+MAILGUN_PASSWORD: "11968d1b34708392ac776f3901f43859"
+# MAILGUN_API_KEY: "key-13f95848f362fc65af8a33d74ad410d8"
+# MAILGUN_DOMAIN: "sandboxe6f8584cf7e8423dbb831465441dccf5.mailgun.org"
+# MAILGUN_USERNAME: "postmaster@sandboxe6f8584cf7e8423dbb831465441dccf5.mailgun.org"
+# MAILGUN_PASSWORD: "77c44cf7361dc5f61c3055add988f35a"
+GMAIL_USERNAME: "abhilku@gmail.com"
+FITFIGHT_SUPPORT: "abhilku1@gmail.com"
